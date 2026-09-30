@@ -53,7 +53,7 @@ DB_FILE = DATA / "hosting.json"
 for directory in (DATA, PROJECTS, LOGS):
     directory.mkdir(parents=True, exist_ok=True)
 
-TOKEN = "8806896770:AAERksyA2sexleKoaK_CtZbo1Ho9xGROGeQ"
+TOKEN = "8806896770:AAF95ai1N2-jaCdhQmMwK95oJX1ELEEFsDE"
 OWNER_ID = 8447733447
 
 def env_int(name, default):
